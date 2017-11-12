@@ -259,7 +259,7 @@ header.masthead {
 .home-box {
   position: relative;
   display: block;
-  max-width: 650px;
+  max-width: 300px;
   margin: 0 auto; }
   .portfolio-box .portfolio-box-caption {
     position: absolute;
