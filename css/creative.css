@@ -95,6 +95,10 @@ img::selection {
 img::-moz-selection {
   color: white;
   background: transparent; }
+  
+.seller-text {
+	color: white; }
+
 
 body {
   -webkit-tap-highlight-color: #222222; }
