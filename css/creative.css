@@ -11,16 +11,17 @@ html {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
-video{
+video {
 	display: block;
 	margin: 0 auto; 
 	position: relative;
 	top: 0px;
 } 
 
-.span{
+#heading {
 
 color: white;
+
 } 
 
 hr {
